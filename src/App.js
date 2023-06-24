@@ -3,7 +3,7 @@ import RegistrationForm from "./components/RegistrationForm";
 function App() {
   return (
     <div className="App">
-      <h1>Form Validation</h1>
+      <h2>Form Validation</h2>
       <RegistrationForm />
     </div>
   );
